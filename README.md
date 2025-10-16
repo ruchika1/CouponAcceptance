@@ -17,7 +17,10 @@ The analysis has been performed using Python Jupiter notebook and notebook can b
 Plots of the analysis are stored under the /images folder for easy access.
 
 Key Conclusions from the analysis -
-1. Overall acceptance rate of coupons is 57%
-2. Men (59%) are slightly more likely to accept coupons than women (54%)
-3. Most popular coupon with highest acceptance rate is Carry out & Take away with an acceptance rate of 73.5% followed by Restaurant (<20) 70.71%
-4. 
+1. Bar only coupons had an acceptance rate of < 50%
+2. However people who went to bar more than 3 times per month had a much higher acceptance rate
+3. Similarly people with kids in the car had a much lower acceptance rate than when no kids in the car
+4. I did independent analysis of coupons for cheap restaurant
+5. Acceptance rate was significantly higher for drivers that were headed to non urgent destinations
+6. Income did not have an impact on acceptance of these type of coupons (for the three brackets that I investigated)
+7. When I analysed drivers who went to chear restaraunts more than 3 times, they were offered coffee house coupons that were rejected at a high rate. Instead if those drivers  were given coupons for restaurants the acceptance rate would be far greater
